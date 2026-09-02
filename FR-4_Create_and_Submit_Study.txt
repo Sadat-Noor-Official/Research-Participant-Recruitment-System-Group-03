@@ -1,0 +1,17 @@
+Card Serial: FR-4
+Feature: Create and Submit Study
+
+Description:
+The system shall allow Researchers to create a study and submit it for Research Coordinator review.
+
+Assigned Member:
+MD. RIMANUL ISLAM TALUKDER
+
+Git Branch:
+feature/authentication-security
+
+Module:
+Researcher / Study Submission
+
+Status:
+Update according to the actual Trello board.

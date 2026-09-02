@@ -1,0 +1,17 @@
+Card Serial: NFR-3
+Feature: Security
+
+Description:
+The system shall protect user accounts using password-based authentication and shall prevent unauthorized users from accessing Research Coordinator administrative functions.
+
+Assigned Member:
+MD. RIMANUL ISLAM TALUKDER
+
+Git Branch:
+feature/authentication-security
+
+Module:
+System Quality / Security
+
+Status:
+Update according to the actual Trello board.

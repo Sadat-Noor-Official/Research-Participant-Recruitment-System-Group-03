@@ -1,0 +1,17 @@
+Card Serial: FR-2
+Feature: Login Logout
+
+Description:
+The system shall authenticate registered users, maintain an active session and allow secure logout.
+
+Assigned Member:
+MD. RIMANUL ISLAM TALUKDER
+
+Git Branch:
+feature/authentication-security
+
+Module:
+Authentication / Session Management
+
+Status:
+Update according to the actual Trello board.
