@@ -1,0 +1,17 @@
+Card Serial: FR-12
+Feature: View Study Details
+
+Description:
+The system shall allow Participants to view complete details of an available study.
+
+Assigned Member:
+MD SABBIR HOSSAIN
+
+Git Branch:
+feature/participant-module
+
+Module:
+Participant / Study Discovery
+
+Status:
+Update according to the actual Trello board.
