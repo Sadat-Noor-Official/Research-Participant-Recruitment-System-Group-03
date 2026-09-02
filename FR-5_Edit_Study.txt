@@ -1,0 +1,17 @@
+Card Serial: FR-5
+Feature: Edit Study
+
+Description:
+The system shall allow Researchers to edit Draft or Rejected studies.
+
+Assigned Member:
+MEZBAHUL KARIM
+
+Git Branch:
+feature/researcher-module
+
+Module:
+Researcher / Study Management
+
+Status:
+Update according to the actual Trello board.

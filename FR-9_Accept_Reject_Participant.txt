@@ -1,0 +1,17 @@
+Card Serial: FR-9
+Feature: Accept Reject Participant
+
+Description:
+The system shall allow Researchers to accept or reject Participant applications.
+
+Assigned Member:
+MEZBAHUL KARIM
+
+Git Branch:
+feature/researcher-module
+
+Module:
+Researcher / Participant Applications
+
+Status:
+Update according to the actual Trello board.

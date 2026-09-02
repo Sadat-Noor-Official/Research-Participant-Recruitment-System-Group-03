@@ -1,0 +1,17 @@
+Card Serial: FR-8
+Feature: View Participant Applications
+
+Description:
+The system shall allow Researchers to view the list and status of Participants who applied to a selected study.
+
+Assigned Member:
+MEZBAHUL KARIM
+
+Git Branch:
+feature/researcher-module
+
+Module:
+Researcher / Participant Applications
+
+Status:
+Update according to the actual Trello board.
