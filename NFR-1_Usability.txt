@@ -1,0 +1,17 @@
+Card Serial: NFR-1
+Feature: Usability
+
+Description:
+The system shall provide a simple and clear interface so Researchers, Participants and Research Coordinators can complete their tasks with minimal difficulty.
+
+Assigned Member:
+MD SABBIR HOSSAIN
+
+Git Branch:
+feature/participant-module
+
+Module:
+System Quality / Usability
+
+Status:
+Update according to the actual Trello board.

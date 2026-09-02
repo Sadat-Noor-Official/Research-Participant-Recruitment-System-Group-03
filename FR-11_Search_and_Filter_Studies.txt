@@ -1,0 +1,17 @@
+Card Serial: FR-11
+Feature: Search and Filter Studies
+
+Description:
+The system shall allow Participants to search and filter Active studies by keyword, topic, compensation, eligibility and deadline.
+
+Assigned Member:
+MD SABBIR HOSSAIN
+
+Git Branch:
+feature/participant-module
+
+Module:
+Participant / Study Discovery
+
+Status:
+Update according to the actual Trello board.
