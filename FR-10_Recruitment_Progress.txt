@@ -1,0 +1,17 @@
+Card Serial: FR-10
+Feature: Recruitment Progress
+
+Description:
+The system shall allow Researchers to track recruitment progress against the required sample size.
+
+Assigned Member:
+MEZBAHUL KARIM
+
+Git Branch:
+feature/researcher-module
+
+Module:
+Researcher / Recruitment Tracking
+
+Status:
+Update according to the actual Trello board.
