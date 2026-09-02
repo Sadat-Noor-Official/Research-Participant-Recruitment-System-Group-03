@@ -1,0 +1,17 @@
+Card Serial: FR-1
+Feature: User Registration
+
+Description:
+The system shall allow Researcher, Participant and Research Coordinator users to register using valid information.
+
+Assigned Member:
+MD. RIMANUL ISLAM TALUKDER
+
+Git Branch:
+feature/authentication-security
+
+Module:
+Authentication / User Account
+
+Status:
+Update according to the actual Trello board.
