@@ -1,0 +1,17 @@
+Card Serial: FR-7
+Feature: Withdraw Study
+
+Description:
+The system shall allow Researchers to withdraw submitted or Active studies and stop new Participant applications.
+
+Assigned Member:
+MEZBAHUL KARIM
+
+Git Branch:
+feature/researcher-module
+
+Module:
+Researcher / Study Management
+
+Status:
+Update according to the actual Trello board.
