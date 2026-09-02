@@ -1,0 +1,17 @@
+Card Serial: FR-14
+Feature: Application Status
+
+Description:
+The system shall allow Participants to view the current status of their study applications.
+
+Assigned Member:
+MD SABBIR HOSSAIN
+
+Git Branch:
+feature/participant-module
+
+Module:
+Participant / Application Tracking
+
+Status:
+Update according to the actual Trello board.

@@ -1,0 +1,17 @@
+Card Serial: FR-13
+Feature: Apply Register for Study
+
+Description:
+The system shall allow eligible Participants to submit an application or registration request for a study.
+
+Assigned Member:
+MD SABBIR HOSSAIN
+
+Git Branch:
+feature/participant-module
+
+Module:
+Participant / Study Application
+
+Status:
+Update according to the actual Trello board.
