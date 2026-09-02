@@ -1,0 +1,17 @@
+Card Serial: FR-19
+Feature: Maintain Study Status
+
+Description:
+The system shall allow the Research Coordinator to maintain the current status of studies.
+
+Assigned Member:
+RAIHANUL MOMIN MOZUMDER
+
+Git Branch:
+feature/reporting-system-quality
+
+Module:
+Research Coordinator / Study Status
+
+Status:
+Update according to the actual Trello board.

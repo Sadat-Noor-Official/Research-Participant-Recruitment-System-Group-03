@@ -1,0 +1,17 @@
+Card Serial: FR-20
+Feature: Generate Study Report
+
+Description:
+The system shall allow the Research Coordinator to generate a summary report of Active, Closed and Archived studies.
+
+Assigned Member:
+RAIHANUL MOMIN MOZUMDER
+
+Git Branch:
+feature/reporting-system-quality
+
+Module:
+Research Coordinator / Reporting
+
+Status:
+Update according to the actual Trello board.
