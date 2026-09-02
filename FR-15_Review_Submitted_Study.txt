@@ -1,0 +1,17 @@
+Card Serial: FR-15
+Feature: Review Submitted Study
+
+Description:
+The system shall allow the Research Coordinator to review submitted studies for completeness and ethical compliance.
+
+Assigned Member:
+SADAT NOOR
+
+Git Branch:
+feature/coordinator-admin
+
+Module:
+Research Coordinator / Study Review
+
+Status:
+Update according to the actual Trello board.

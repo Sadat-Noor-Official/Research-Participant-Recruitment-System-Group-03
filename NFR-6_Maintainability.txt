@@ -1,0 +1,17 @@
+Card Serial: NFR-6
+Feature: Maintainability
+
+Description:
+The system shall use a modular and organized structure so future features, fixes and updates can be implemented with minimal impact on existing modules.
+
+Assigned Member:
+SADAT NOOR
+
+Git Branch:
+feature/coordinator-admin
+
+Module:
+System Quality / Maintainability
+
+Status:
+Update according to the actual Trello board.
