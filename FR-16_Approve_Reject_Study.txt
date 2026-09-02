@@ -1,0 +1,17 @@
+Card Serial: FR-16
+Feature: Approve Reject Study
+
+Description:
+The system shall allow the Research Coordinator to approve or reject submitted studies.
+
+Assigned Member:
+SADAT NOOR
+
+Git Branch:
+feature/coordinator-admin
+
+Module:
+Research Coordinator / Study Review
+
+Status:
+Update according to the actual Trello board.
