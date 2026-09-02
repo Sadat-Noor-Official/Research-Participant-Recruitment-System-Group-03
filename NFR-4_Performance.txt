@@ -1,0 +1,17 @@
+Card Serial: NFR-4
+Feature: Performance
+
+Description:
+The system shall return normal page requests and study search results within 1 second under normal operating conditions.
+
+Assigned Member:
+RAIHANUL MOMIN MOZUMDER
+
+Git Branch:
+feature/reporting-system-quality
+
+Module:
+System Quality / Performance
+
+Status:
+Update according to the actual Trello board.
