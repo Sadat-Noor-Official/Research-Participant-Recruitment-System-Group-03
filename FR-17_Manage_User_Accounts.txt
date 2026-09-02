@@ -1,0 +1,17 @@
+Card Serial: FR-17
+Feature: Manage User Accounts
+
+Description:
+The system shall allow the Research Coordinator to manage permitted user account actions.
+
+Assigned Member:
+SADAT NOOR
+
+Git Branch:
+feature/coordinator-admin
+
+Module:
+Research Coordinator / User Administration
+
+Status:
+Update according to the actual Trello board.

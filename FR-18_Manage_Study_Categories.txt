@@ -1,0 +1,17 @@
+Card Serial: FR-18
+Feature: Manage Study Categories
+
+Description:
+The system shall allow the Research Coordinator to add, edit or deactivate study categories.
+
+Assigned Member:
+SADAT NOOR
+
+Git Branch:
+feature/coordinator-admin
+
+Module:
+Research Coordinator / Category Administration
+
+Status:
+Update according to the actual Trello board.
