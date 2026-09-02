@@ -1,0 +1,17 @@
+Card Serial: NFR-5
+Feature: Reliability
+
+Description:
+The system shall store study, user and Participant application data reliably without losing valid records during normal operation.
+
+Assigned Member:
+RAIHANUL MOMIN MOZUMDER
+
+Git Branch:
+feature/reporting-system-quality
+
+Module:
+System Quality / Reliability
+
+Status:
+Update according to the actual Trello board.
